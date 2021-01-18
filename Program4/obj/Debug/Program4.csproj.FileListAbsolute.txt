@@ -1,0 +1,6 @@
+J:\CIS-199\Program4\Program4\bin\Debug\Program4.exe.config
+J:\CIS-199\Program4\Program4\bin\Debug\Program4.exe
+J:\CIS-199\Program4\Program4\bin\Debug\Program4.pdb
+J:\CIS-199\Program4\Program4\obj\Debug\Program4.csprojAssemblyReference.cache
+J:\CIS-199\Program4\Program4\obj\Debug\Program4.exe
+J:\CIS-199\Program4\Program4\obj\Debug\Program4.pdb
